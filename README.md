@@ -1,16 +1,20 @@
-## Hi there 👋
+# Gabriel Brandão
 
-<!--
-**gabrielbrandao-tech/gabrielbrandao-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Analista de Sistemas N3 | Dev Web  
++6 anos de experiência em TI, suporte corporativo e servidores.
 
-Here are some ideas to get you started:
+Atualmente atuo como PJ, realizando atendimentos N3 em campo e desenvolvendo projetos web no tempo livre.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias
+- HTML, CSS, JavaScript
+- Git & GitHub
+- PWA
+- Suporte Técnico N3
+- Administração de Servidores
+- Backup e documentação técnica
+
+## 📌 Portfólio
+👉 https://gabrielbrandao-tech.github.io
+
+## 📫 Contato
+Freelancer PJ disponível para projetos.
